@@ -40,11 +40,6 @@ Here, you'll find projects that showcase my learning, challenges, and experience
   <img width=285 src="https://github-readme-stats.vercel.app/api?username=BozzanoO&count_private=true&show_icons=true&theme=react" alt="readme stats" />
   <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozzanoO&hide=html&langs_count=8&layout=compact&theme=react" alt="top langs" />
 </div>
-
-<br/>
-
-![Snake animation](https://github.com/pedrobozzano/BozzanoO/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 **Thanks for stopping by!🫂**
